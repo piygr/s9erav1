@@ -22,7 +22,7 @@ CustomCIFAR10Dataset is created on top of CIFAR10 to take care of albumentation 
 ## utils.py
 The file contains utility & helper functions needed for training & for evaluating our model.
 
-## S8.ipynb
+## S9.ipynb
 The file is an IPython notebook. The notebook imports helper functions from utils.py.
 
 ## How to setup
